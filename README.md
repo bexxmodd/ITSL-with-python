@@ -1,4 +1,4 @@
-<h2>Welcome to The Repository of The Lab Exercises of ITSL</h1>
+<h2>Welcome to The Repository of The Lab Exercises For ITSL</h1>
 
 The lab works are performed in <font color=red>python jupyter notebook</font> and they follow:
 
@@ -6,7 +6,10 @@ The lab works are performed in <font color=red>python jupyter notebook</font> an
 
 <img src=http://faculty.marshall.usc.edu/gareth-james/ISL/ISL%20Cover%202.jpg width="200">
 
-This is a great introductory book for people who are interested in machine learning. However, as the name of the books suggests all the application of the explained concepts and models are implemented using R statistical software. The goal of this project is to replicate all the lab works using Python language with an overview of steps performed and followed analysis and explanations. With the increasing popularity of the Python language due to its versatility and user-friendly syntax, lots of newcomers will try to learn machine learning using python and I hope these guides will be helpful. Book consists of 10 chapters and the lab exercises start from chapter three. This project follows the ITSL chapter by chapter.
+This is a great introductory book for people who are interested in machine learning. This book explores the most commonly used supervised and unsupervised machine learning principles. Prior knowledge of basic statistics and linear algebra is helpful but not necessary. However, as the name of the book suggests all the applications of the given concepts and models are implemented using R statistical software.
+
+
+With the increasing popularity of the Python language due to its versatility and user-friendly syntax, lots of newcomers will try to learn machine learning using Python. The goal of this project is to replicate all the lab works using the Python programming language. Notebooks will be provided with all the steps which are performed in the book.  I hope these guides will be helpful. The book consists of 10 chapters and the lab exercises start from chapter three. This project follows the ITSL in the same order.
 
 ---------
 ### Content:
@@ -18,8 +21,8 @@ This is a great introductory book for people who are interested in machine learn
   
 - <b>Chapter 4 - Classification</b>
   - Logistic Regression
-  - LDA
-  - QDA
+  - Linear Discriminant Analysis
+  - Quadratic Discriminant Analysis
   - KNN
   
 - <b>Chapter 5 - Resampling Methods</b>
@@ -44,7 +47,7 @@ more to come...
 
 _Chapter 3_ | [Boston.csv](https://rb.gy/n576o8) | [Carseats.csv](https://rb.gy/0p5fob) |
 
-_Chapter 4_ |
+_Chapter 4_ | 
 
 _Chapter 5_ |
 
