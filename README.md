@@ -10,7 +10,7 @@ This is a great introductory book for people who are interested in machine learn
 
 ---------
 ### Content:
-- <a href="x"><b>Chapter 3 - Linear Regression</b></a>
+- <a href="https://github.com/bexxmodd/ITSL-with-python/blob/master/3.6%20Lab.ipynb"><b>Chapter 3 - Linear Regression</b></a>
   - Simple linear regression
   - Multiple linear regression
   - Interaction Term
