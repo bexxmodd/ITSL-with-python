@@ -1,6 +1,6 @@
 <h2>Welcome to The Repository of The Lab Exercises of ITSL</h1>
 
-The lab works are performed in <font color=red>python jupyter notebook</font> and they follow book:
+The lab works are performed in <font color=red>python jupyter notebook</font> and they follow:
 
 <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/index.html">An Introduction To Statistical Learning with Applications in R</a>
 
