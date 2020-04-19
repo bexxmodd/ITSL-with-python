@@ -19,11 +19,12 @@ With the increasing popularity of the Python language due to its versatility and
   - Interaction Term
   - Non-linear Transformations of the Predictors
   
-- <b>Chapter 4 - Classification</b>
+- <a href="https://github.com/bexxmodd/ITSL-with-python/blob/master/Chapter04_Lab.ipynbChapter"><b>Chapter 4 - Classification</b></a>
   - Logistic Regression
   - Linear Discriminant Analysis
   - Quadratic Discriminant Analysis
   - KNN
+  - An Application to Caravan Insurance Data
   
 - <b>Chapter 5 - Resampling Methods</b>
   - Leave-One-Out Cross-Validation
@@ -47,7 +48,7 @@ more to come...
 
 _Chapter 3_ | [Boston.csv](https://rb.gy/n576o8) | [Carseats.csv](https://rb.gy/0p5fob) |
 
-_Chapter 4_ | 
+_Chapter 4_ | [Smarket.csv](https://rb.gy/eg0zwb) | [Carseats.csv](https://rb.gy/0p5fob) |
 
 _Chapter 5_ |
 
