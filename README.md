@@ -19,7 +19,7 @@ With the increasing popularity of the Python language due to its versatility and
   - Interaction Term
   - Non-linear Transformations of the Predictors
   
-- <a href="https://github.com/bexxmodd/ITSL-with-python/blob/master/Chapter04_Lab.ipynbChapter"><b>Chapter 4 - Classification</b></a>
+- <a href="https://github.com/bexxmodd/ITSL-with-python/blob/master/Chapter04_Lab.ipynb"><b>Chapter 4 - Classification</b></a>
   - Logistic Regression
   - Linear Discriminant Analysis
   - Quadratic Discriminant Analysis
