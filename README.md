@@ -26,7 +26,7 @@ With the increasing popularity of the Python language due to its versatility and
   - KNN
   - An Application to Caravan Insurance Data
   
-- <b>Chapter 5 - Resampling Methods</b>
+- <a href="https://github.com/bexxmodd/ITSL-with-python/blob/master/chapter05_lab.ipynb"><b>Chapter 5 - Resampling Methods</b></a>
   - Leave-One-Out Cross-Validation
   - k-Fold Cross-Validation
   - The Bootstrap
@@ -48,9 +48,9 @@ more to come...
 
 _Chapter 3_ | [Boston.csv](https://rb.gy/n576o8) | [Carseats.csv](https://rb.gy/0p5fob) |
 
-_Chapter 4_ | [Smarket.csv](https://rb.gy/eg0zwb) | [Carseats.csv](https://rb.gy/0p5fob) |
+_Chapter 4_ | [Smarket.csv](https://rb.gy/eg0zwb) | [Caravan.csv](https://rb.gy/0p5fob) |
 
-_Chapter 5_ |
+_Chapter 5_ | [Auto.csv](https://rb.gy/ijqxck) | [Portfolio.csv](https://rb.gy/twjsui) |
 
 _Chapter 6_ |
 
