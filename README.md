@@ -11,6 +11,8 @@ This is a great introductory book for people who are interested in machine learn
 
 With the increasing popularity of the Python language due to its versatility and user-friendly syntax, lots of newcomers will try to learn machine learning using Python. The goal of this project is to replicate all the lab works using the Python programming language. Notebooks will be provided with all the steps which are performed in the book.  I hope these guides will be helpful. The book consists of 10 chapters and the lab exercises start from chapter three. This project follows the ITSL in the same order.
 
+_* Notes: Some of the R functions are not directly transferable. If you see something is omitted that is because or it was previously entailed somewhere or it's just meaningless. I periodically try to implement functions where there is a repetition of steps. If you have any suggestions or improvements please share!_
+
 ---------
 ### Content:
 - <a href="https://github.com/bexxmodd/ITSL-with-python/blob/master/chapter03_lab.ipynb"><b>Chapter 3 - Linear Regression</b></a>
