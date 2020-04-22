@@ -48,7 +48,7 @@ more to come...
 
 _Chapter 3_ | [Boston.csv](https://rb.gy/n576o8) | [Carseats.csv](https://rb.gy/0p5fob) |
 
-_Chapter 4_ | [Smarket.csv](https://rb.gy/eg0zwb) | [Caravan.csv](https://rb.gy/0p5fob) |
+_Chapter 4_ | [Smarket.csv](https://rb.gy/eg0zwb) | [Caravan.csv](https://rb.gy/pfbpzi) |
 
 _Chapter 5_ | [Auto.csv](https://rb.gy/ijqxck) | [Portfolio.csv](https://rb.gy/twjsui) |
 
