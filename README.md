@@ -34,15 +34,22 @@ _* Notes: Some of the R functions are not directly transferable. If you see some
   - The Bootstrap
   
 - <b>Chapter 6 - Linear Model Selection and Regularization</b>
-  - Subset Selection Methods
+  - <a href="https://github.com/bexxmodd/ITSL-with-python/blob/master/Chapter06_Lab1.ipynb"><b>Lab 1: Subset Selection Methods</b></a>
     - Best Subset Selection
     - Forward and Backward Stepwise Selection
     - Choosing Among Models
-  - Ridge Regression
-  - Lasso Regression
-  - PCR Regression
-  - PLS Regression
+  - <a href="https://github.com/bexxmodd/ITSL-with-python/blob/master/Chapter06_Lab2.ipynb"><b>Lab 2: Ridge Regression and the Lasso</b></a>
+    - Ridge Regression
+    - The Lasso
+  - Lab 3: PCR and PLS Regression
+    - Principal Components Regression
+    - Partial Least Squares
 
+- <b>Chapter 7 - Moving Beyond Linearity</b>
+  - Non-linear Modeling
+  - Splines
+  - GAMs
+  
 more to come...
 
 --------
