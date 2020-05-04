@@ -63,6 +63,10 @@ _Chapter 5_ | [Auto.csv](https://rb.gy/ijqxck) | [Portfolio.csv](https://rb.gy/t
 
 _Chapter 6_ | [Hitters](https://drive.google.com/file/d/1e2NqNJGkCTAGBee8JHGNGCJHplG5R2YQ/view?usp=sharing) |
 
+_Chapter 7_ |
+
+_Chapter 8_ |
+
 ---------
 ### Follow me on social media
 [![Bexx Modd Twitter](https://i.imgur.com/QtTkCon.png)](https://twitter.com/bexxmodd)
