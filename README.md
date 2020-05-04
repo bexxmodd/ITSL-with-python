@@ -41,7 +41,7 @@ _* Notes: Some of the R functions are not directly transferable. If you see some
   - <a href="https://github.com/bexxmodd/ITSL-with-python/blob/master/Chapter06_Lab2.ipynb"><b>Lab 2: Ridge Regression and the Lasso</b></a>
     - Ridge Regression
     - The Lasso
-  - Lab 3: PCR and PLS Regression
+  - <a href="https://github.com/bexxmodd/ITSL-with-python/blob/master/chapter06_lab3.ipynb"><b>Lab 3: PCR and PLS Regression</b></a>
     - Principal Components Regression
     - Partial Least Squares
 
@@ -61,7 +61,7 @@ _Chapter 4_ | [Smarket.csv](https://rb.gy/eg0zwb) | [Caravan.csv](https://rb.gy/
 
 _Chapter 5_ | [Auto.csv](https://rb.gy/ijqxck) | [Portfolio.csv](https://rb.gy/twjsui) |
 
-_Chapter 6_ |
+_Chapter 6_ | [Hitters](https://drive.google.com/file/d/1e2NqNJGkCTAGBee8JHGNGCJHplG5R2YQ/view?usp=sharing) |
 
 ---------
 ### Follow me on social media
