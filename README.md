@@ -50,6 +50,12 @@ _* Notes: Some of the R functions are not directly transferable. If you see some
   - Splines
   - GAMs
   
+- <b>Chapter 8 - Tree Based Methods</b>
+  - Fitting Classification Trees
+  - Fitting Regression Trees
+  - Bagging and Random Forests
+  - Boosting
+  
 more to come...
 
 --------
