@@ -61,9 +61,9 @@ _Chapter 4_ | [Smarket.csv](https://rb.gy/eg0zwb) | [Caravan.csv](https://rb.gy/
 
 _Chapter 5_ | [Auto.csv](https://rb.gy/ijqxck) | [Portfolio.csv](https://rb.gy/twjsui) |
 
-_Chapter 6_ | [Hitters](https://drive.google.com/file/d/1e2NqNJGkCTAGBee8JHGNGCJHplG5R2YQ/view?usp=sharing) |
+_Chapter 6_ | [Hitters.csv](https://drive.google.com/file/d/1e2NqNJGkCTAGBee8JHGNGCJHplG5R2YQ/view?usp=sharing) |
 
-_Chapter 7_ | [Wage](https://drive.google.com/file/d/1puA-UrAstmnJfb7XjJlp6oLK9vb2l9LD/view?usp=sharing) |
+_Chapter 7_ | [Wage.csv](https://drive.google.com/file/d/1puA-UrAstmnJfb7XjJlp6oLK9vb2l9LD/view?usp=sharing) |
 
 _Chapter 8_ |
 
