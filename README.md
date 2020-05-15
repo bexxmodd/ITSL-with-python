@@ -45,7 +45,7 @@ _* Notes: Some of the R functions are not directly transferable. If you see some
     - Principal Components Regression
     - Partial Least Squares
 
-- <b><a href="https://github.com/bexxmodd/ITSL-with-python/blob/master/Chapter07_Lab.ipynb"><b>Chapter 7 - Moving Beyond Linearity</b></a>
+- <a href="https://github.com/bexxmodd/ITSL-with-python/blob/master/Chapter07_Lab.ipynb"><b>Chapter 7 - Moving Beyond Linearity</b></a>
   - Non-linear Modeling
   - Splines
   - GAMs
