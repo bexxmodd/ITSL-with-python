@@ -76,4 +76,4 @@ _Chapter 8_ |
 ---------
 ### Follow me on social media
 [![Bexx Modd Twitter](https://i.imgur.com/QtTkCon.png)](https://twitter.com/bexxmodd)
-[![Bexx Modd LinkedIn](https://i.imgur.com/AxeRgHV.png)](https://www.linkedin.com/feed/)
+[![Bexx Modd LinkedIn](https://i.imgur.com/AxeRgHV.png)](https://www.linkedin.com/in/bmodebadze)
